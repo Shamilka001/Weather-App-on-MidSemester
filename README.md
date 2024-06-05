@@ -1,5 +1,5 @@
 markdown
-# Simple Weather App
+#Weather App
 
 ## Overview
 This Simple Weather App is an Android application that provides real-time weather information based on the user's current location. It displays the current latitude and longitude, reverse geocoded address, system time, and the weather conditions.
